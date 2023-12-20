@@ -1,2 +1,1 @@
-# smartstudy
-choose course like html css and javascript
+https://smartstudy.ccbp.tech/
